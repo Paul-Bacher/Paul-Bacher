@@ -2,17 +2,11 @@
 <h3 align="center">An independent French Engineer in Deep Learning</h3>
 
 - 🔭 I’m currently working on [image sorting algorithm after scrapping](https://github.com/Paul-Bacher)
-
 - 🌱 I’m currently learning **OpenCV, YOLOv5**
-
 - 👯 I’m looking to collaborate on **Deep Learning projects**
-
 - 🤝 I’m looking for help with **mentioned above subjects**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/Paul-Bacher)
-
 - 💬 Ask me about **Deep Learning Architectures, Keras**
-
 - 📫 How to reach me **paulbacher881@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
