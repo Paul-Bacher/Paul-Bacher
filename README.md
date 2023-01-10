@@ -2,7 +2,7 @@
 <h3 align="center">An independent French Engineer in Deep Learning</h3>
 
 - 🔭 I’m currently working on [image sorting algorithm after scrapping](https://github.com/Paul-Bacher)
-- 🌱 I’m currently learning **OpenCV, YOLOv5**
+- 🌱 I’m currently learning **Kaggle Competitions**
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 - 🤝 I’m looking for help with **mentioned above subjects**
 - 👨‍💻 All of my projects are available [here](https://github.com/Paul-Bacher)
