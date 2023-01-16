@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Paul Bacher</h1>
 <h3 align="center">An independent French Engineer in Deep Learning</h3>
 
-- 🔭 I’m currently working on [image sorting algorithm after scrapping](https://github.com/Paul-Bacher)
+- 🔭 I’m currently working on [RSNA Breast Cancer Detection]([https://github.com/Paul-Bacher](https://github.com/Paul-Bacher/RSNA-Screening-Mammography-Breast-Cancer-Detection))
 - 🌱 I’m currently learning **Kaggle Competitions**
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 - 🤝 I’m looking for help with **mentioned above subjects**
