@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 - 🤝 I’m looking for help with **mentioned above subjects**
 - 👨‍💻 All of my projects are available [here](https://github.com/Paul-Bacher)
-- 💬 Ask me about **Deep Learning Architectures, Keras**
+- 💬 Ask me about **Deep Learning Projects**
 - 📫 How to reach me **paulbacher881@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
