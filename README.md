@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I am Paul Bacher</h1>
-<h3 align="center">An independent French Engineer in Deep Learning</h3>
+<h3 align="center">A Freelance Data Analyst</h3>
 
-- 🔭 I’m currently working on [**RSNA Breast Cancer Detection**]([https://github.com/Paul-Bacher](https://github.com/Paul-Bacher/RSNA-Screening-Mammography-Breast-Cancer-Detection))
-- 🌱 I’m currently learning **Kaggle Competitions**
-- 👯 I’m looking to collaborate on **Deep Learning projects**
-- 🤝 I’m looking for help with **mentioned above subjects**
-- 👨‍💻 All of my projects are available [here](https://github.com/Paul-Bacher)
-- 💬 Ask me about **Deep Learning Projects**
+- 🔭 I’m currently working on **RSNA Breast Cancer Detection**
+- 🌱 I’m currently learning **Deep Learning**, because I love it!
+- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 👨‍💻 All of my projects are available [here](https://www.kaggle.com/paulbacher/code)
+- 💬 Ask me about **Data Analysis** and **Data Visualization**
 - 📫 How to reach me **paulbacher881@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
